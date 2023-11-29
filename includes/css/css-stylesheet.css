@@ -1,0 +1,129 @@
+/* CSS Document */
+
+/* <!-- // bof: Main body // --> */
+body {
+	width:100%;
+	height:900px;
+	text-align:center;
+	margin:0;
+	padding:0px;
+	}
+/* <!-- // eof: Main body // --> */
+
+#container {
+	margin:0 auto;
+	text-align:left;
+	border: thin solid #253448;
+	background:#00afef;
+	}
+
+#company_name {
+	text-align:center;
+	vertical-align:middle;
+	font-family:Lucida Handwriting;
+	font-size:36px;
+	color:#e80060;
+	}
+
+#date_text {
+	font-family:Lucida Handwriting;
+	font-size:12px;
+	text-align:right;
+	padding:0px 5px 4px 0px;
+	}
+
+#disabled_link {
+	color:#6e8eba;
+	background:transparent;
+	text-decoration:none;
+	}
+#breadcrumb_bar {
+	border-top:none;
+	border-bottom:solid thin #253448;
+	background-image:url(../../images/layout/body/breadcrumb_bar.gif);
+	}
+	
+#breadcrumb_links {
+	background:transparent;
+	font-size:11px;
+	text-align:left;
+	padding:3px 0px 5px 8px;
+	}
+
+#breadcrumb_links a {
+	color:#6e8eba;
+	background:transparent;
+	text-decoration:none;
+	}
+
+#breadcrumb_links a:hover {
+	background:transparent;
+	text-decoration:underline;
+	}
+
+#content_title {
+	font-family:Lucida Handwriting;
+	font-size:24px;
+	}
+
+#content_text {
+	font-family:Lucida Handwriting;
+	font-size:16px;
+	}
+
+#top_link_bar {
+	text-align:center;
+	}
+		
+#bottom_link_bar {
+	font-family:Lucida Handwriting;
+	font-size:16px;
+	text-align:center;
+	}
+
+#bottom_link_bar a {
+	background:transparent;
+	text-decoration:none;
+	}
+
+#bottom_link_bar a:hover {
+	background:transparent;
+	text-decoration:underline;
+	}
+
+#address_bar {
+	font-family:Lucida Handwriting;
+	font-size:14px;
+	text-align:center;
+	}
+	
+#copyright {
+	font-family:Lucida Handwriting;
+	font-size:10px;
+	text-align:center;
+	padding:5px;
+	}
+
+#last_updated {
+	font-family:Lucida Handwriting;
+	font-size:10px;
+	text-align:left;
+	padding:0px 0px 0px 5px;
+	}
+
+#oneillsplace {
+	font-family:Lucida Handwriting;
+	font-size:10px;
+	text-align:right;
+	padding:0px 5px 0px 0px;
+	}
+
+#oneillsplace a {
+	background:transparent;
+	text-decoration:none;
+	}
+
+#oneillsplace a:hover {
+	background:transparent;
+	text-decoration:underline;
+	}

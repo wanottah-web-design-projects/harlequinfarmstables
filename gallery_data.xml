@@ -1,0 +1,82 @@
+<gallery>
+
+	<!-- The line below sets the path to the folder where the images are stored -->
+	<setup path="images/">
+	
+	<!-- The the following lines are used to customize the look of the gallery -->
+     	<imgHeight>235</imgHeight>
+		<imgWidth>314</imgWidth>
+      	
+		<thumbHeight>30</thumbHeight>
+      	<thumbWidth>45</thumbWidth>
+      	
+		<transitionType>fade</transitionType>
+     	<thumbnailRows>1</thumbnailRows>
+		<thumbPosition>bottom</thumbPosition>
+		<showControls>false</showControls>
+		<scaleToFit>true</scaleToFit>
+	</setup>
+
+	<!-- The following lines set the names of your images and thumbnails -->
+
+	<item>
+		<thumb>facilities_1.jpg</thumb>
+		<img>facilities_1.jpg</img>
+	</item>
+
+	<item>
+		<thumb>facilities_2.jpg</thumb>
+		<img>facilities_2.jpg</img>
+	</item>
+
+	<item>
+		<thumb>facilities_3.jpg</thumb>
+		<img>facilities_3.jpg</img>
+	</item>	
+
+	<item>
+		<thumb>facilities_4.jpg</thumb>
+		<img>facilities_4.jpg</img>
+	</item>
+
+	<item>
+		<thumb>contact_us_1.jpg</thumb>
+		<img>contact_us_1.jpg</img>
+	</item>
+
+	<item>
+		<thumb>contact_us_3.jpg</thumb>
+		<img>contact_us_3.jpg</img>
+	</item>
+
+	<item>
+		<thumb>contact_us_4.jpg</thumb>
+		<img>contact_us_4.jpg</img>
+	</item>
+
+	<item>
+		<thumb>contact_us_5.jpg</thumb>
+		<img>contact_us_5.jpg</img>
+	</item>
+
+	<item>
+		<thumb>contact_us_6.jpg</thumb>
+		<img>contact_us_6.jpg</img>
+	</item>
+
+	<item>
+		<thumb>contact_us_7.jpg</thumb>
+		<img>contact_us_7.jpg</img>
+	</item>
+
+	<item>
+		<thumb>stables_1.jpg</thumb>
+		<img>stables_1.jpg</img>
+	</item>
+	
+	<item>
+		<thumb>stables_2.jpg</thumb>
+		<img>stables_2.jpg</img>
+	</item>
+	
+</gallery>
